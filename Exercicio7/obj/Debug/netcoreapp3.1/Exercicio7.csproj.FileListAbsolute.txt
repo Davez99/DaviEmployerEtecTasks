@@ -1,0 +1,13 @@
+C:\Users\daviterres\source\repos\ConsoleApp\Exercicio7\bin\Debug\netcoreapp3.1\Exercicio7.exe
+C:\Users\daviterres\source\repos\ConsoleApp\Exercicio7\bin\Debug\netcoreapp3.1\Exercicio7.deps.json
+C:\Users\daviterres\source\repos\ConsoleApp\Exercicio7\bin\Debug\netcoreapp3.1\Exercicio7.runtimeconfig.json
+C:\Users\daviterres\source\repos\ConsoleApp\Exercicio7\bin\Debug\netcoreapp3.1\Exercicio7.runtimeconfig.dev.json
+C:\Users\daviterres\source\repos\ConsoleApp\Exercicio7\bin\Debug\netcoreapp3.1\Exercicio7.dll
+C:\Users\daviterres\source\repos\ConsoleApp\Exercicio7\bin\Debug\netcoreapp3.1\Exercicio7.pdb
+C:\Users\daviterres\source\repos\ConsoleApp\Exercicio7\obj\Debug\netcoreapp3.1\Exercicio7.csprojAssemblyReference.cache
+C:\Users\daviterres\source\repos\ConsoleApp\Exercicio7\obj\Debug\netcoreapp3.1\Exercicio7.AssemblyInfoInputs.cache
+C:\Users\daviterres\source\repos\ConsoleApp\Exercicio7\obj\Debug\netcoreapp3.1\Exercicio7.AssemblyInfo.cs
+C:\Users\daviterres\source\repos\ConsoleApp\Exercicio7\obj\Debug\netcoreapp3.1\Exercicio7.csproj.CoreCompileInputs.cache
+C:\Users\daviterres\source\repos\ConsoleApp\Exercicio7\obj\Debug\netcoreapp3.1\Exercicio7.dll
+C:\Users\daviterres\source\repos\ConsoleApp\Exercicio7\obj\Debug\netcoreapp3.1\Exercicio7.pdb
+C:\Users\daviterres\source\repos\ConsoleApp\Exercicio7\obj\Debug\netcoreapp3.1\Exercicio7.genruntimeconfig.cache
