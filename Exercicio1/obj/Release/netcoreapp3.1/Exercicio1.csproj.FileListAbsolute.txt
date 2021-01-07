@@ -1,0 +1,12 @@
+C:\Users\daviterres\source\repos\ConsoleApp\Exercicio1\bin\Release\netcoreapp3.1\Exercicio1.exe
+C:\Users\daviterres\source\repos\ConsoleApp\Exercicio1\bin\Release\netcoreapp3.1\Exercicio1.deps.json
+C:\Users\daviterres\source\repos\ConsoleApp\Exercicio1\bin\Release\netcoreapp3.1\Exercicio1.runtimeconfig.json
+C:\Users\daviterres\source\repos\ConsoleApp\Exercicio1\bin\Release\netcoreapp3.1\Exercicio1.runtimeconfig.dev.json
+C:\Users\daviterres\source\repos\ConsoleApp\Exercicio1\bin\Release\netcoreapp3.1\Exercicio1.dll
+C:\Users\daviterres\source\repos\ConsoleApp\Exercicio1\bin\Release\netcoreapp3.1\Exercicio1.pdb
+C:\Users\daviterres\source\repos\ConsoleApp\Exercicio1\obj\Release\netcoreapp3.1\Exercicio1.AssemblyInfoInputs.cache
+C:\Users\daviterres\source\repos\ConsoleApp\Exercicio1\obj\Release\netcoreapp3.1\Exercicio1.AssemblyInfo.cs
+C:\Users\daviterres\source\repos\ConsoleApp\Exercicio1\obj\Release\netcoreapp3.1\Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\daviterres\source\repos\ConsoleApp\Exercicio1\obj\Release\netcoreapp3.1\Exercicio1.dll
+C:\Users\daviterres\source\repos\ConsoleApp\Exercicio1\obj\Release\netcoreapp3.1\Exercicio1.pdb
+C:\Users\daviterres\source\repos\ConsoleApp\Exercicio1\obj\Release\netcoreapp3.1\Exercicio1.genruntimeconfig.cache

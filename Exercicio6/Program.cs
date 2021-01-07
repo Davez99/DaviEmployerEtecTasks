@@ -4,6 +4,7 @@ namespace Exercicio6
 {
     class Program
     {
+
         static void Main(string[] args)
         {
             /*
@@ -13,11 +14,24 @@ namespace Exercicio6
             */
 
             Console.WriteLine("Escreva uma frase ou texto: ");
-            var text = Console.ReadLine();
+            var texto = Console.ReadLine();
+            Console.Clear();
 
-            text [0] = "c";
 
-            Console.WriteLine($"Sua conversão ficou assim: {text}");
+            char[] letra = new char[200];
+            letra = texto.ToCharArray();
+
+
+            for (int i = 0; i < letra.Length;  i++) 
+            {
+                while(letra[i] == 'a')
+                {
+                    letra[i] = '&';
+                }
+            }
+
+            Console.WriteLine($"Sua conversão ficou assim:");
+            Console.WriteLine(letra);
             Console.ReadKey();
 
         }

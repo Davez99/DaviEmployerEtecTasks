@@ -21,6 +21,7 @@ namespace Exercicio8
 
             Console.WriteLine("Digite seu RG:");
             var rg = Console.ReadLine();
+            Console.Clear();
 
             StreamWriter maquinaDeEscrever = new StreamWriter("exercicio 8.txt");
 

@@ -14,6 +14,8 @@ namespace Exercicio7
 
             Console.WriteLine("Digite o seu salário:");
             float salario = float.Parse(Console.ReadLine());
+            Console.Clear
+
             float v = 0f;
 
             if (salario >= 1.700)
