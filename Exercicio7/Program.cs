@@ -1,6 +1,6 @@
-﻿using System;
+using System;
 
-namespace Exercicio7
+namespace Exercício7
 {
     class Program
     {
@@ -12,24 +12,32 @@ namespace Exercicio7
              Para finalizar, exiba o novo salário na tela.
             */
 
-            Console.WriteLine("Digite o seu salário:");
-            float salario = float.Parse(Console.ReadLine());
-            Console.Clear
-
-            float v = 0f;
-
-            if (salario >= 1.700)
+            try
             {
-                v = salario + 200;
-            }
-            else
-            {
-                v = salario + 300;
-            }
+                Console.WriteLine("Digite o seu salário:");
+                float salario = float.Parse(Console.ReadLine());
+                Console.Clear();
 
-            Console.WriteLine($"O seu reajuste salarial ficou em {v}");
-            
-            Console.ReadKey();
+                float v = 0f;
+
+                if (salario >= 1.700)
+                {
+                    v = salario + 200;
+                }
+                else
+                {
+                    v = salario + 300;
+                }
+
+                Console.WriteLine($"O seu reajuste salarial ficou em {v}");
+
+                Console.ReadKey();
+                Console.ReadKey(true);
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("Digite apenas números");
+            }
         }
     }
 }
