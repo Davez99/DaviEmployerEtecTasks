@@ -7,9 +7,9 @@ namespace Exercício3
         static void Main(string[] args)
         {
             /*
-              Ex 3 Desenvolva uma calculadora, 
-              onde será necessário entrar com a operação, primeiro e segundo valor, 
-              exiba o resultado na tela.
+              4 – Desenvolva um algoritmo que solicite a entrada da idade de um determinado usuário,
+              se for menor que 18 anos exiba na cor vermelha “Sem permissão”,
+              caso seja maior ou igual a 18 anos exiba na cor verde “Permissão concedida”.
              */
             try {
                 Console.WriteLine("Precisamos saber qual é sua idade, para permitir ou não sua entrada:");
