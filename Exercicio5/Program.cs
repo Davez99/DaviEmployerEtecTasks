@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Exercicio5
 {
@@ -11,12 +11,22 @@ namespace Exercicio5
             e retorne a frase “Olá meu nome é: { nome recebido}”.
             */
 
+            
+            NewMethod(NewMethod1()); 
+        }
+
+        private static void NewMethod(string nome)
+        {
+            Console.WriteLine("Olá meu nome é: {0}", nome);
+            Console.ReadKey();
+        }
+
+        private static string NewMethod1()
+        {
             Console.WriteLine("Escreva seu nome:");
             var nome = Console.ReadLine();
             Console.Clear();
-
-            Console.WriteLine("Olá meu nome é: {0}", nome);
-            Console.ReadKey();
+            return nome;
         }
     }
 }
